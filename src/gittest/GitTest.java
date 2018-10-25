@@ -7,6 +7,7 @@ public class GitTest {
         //Detta är huvudfilen
         //Här blev det lite skillnad
         //Ändringändring
+        // En ändring i testBranch
     }
 
 }
